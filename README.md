@@ -1,5 +1,12 @@
+# COMING SOON
+
+We are experiencing some difficulties... 
+As this is my first time creating a GSI
+The GSI should be released by June
+Sorry for the inconvienence
+
 # GardezinOS-GSI
-GardezinOS is a Lineage-Based GSI, It is made for all Treble-Compliant, A/B Android Devices, for more info, readme
+GardezinOS is a Lineage-Based GSI, It is made for all Treble-Compliant, A/B Android Devices, for more info, **READ THE README**
 
 
 # README
